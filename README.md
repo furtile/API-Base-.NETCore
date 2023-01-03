@@ -1,6 +1,8 @@
 # This is an built REST API with .NETCore 3.1
 
-## Features
+## Implemented features
 * Swagger documentation
+
+## Future features
 * Ability to run services in background
-* Login Possibility with google accouts
+* possibility to authenticate with google accouts
